@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE9539D62951A4C400541C2B /* CustomSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9539D52951A4C400541C2B /* CustomSlider.swift */; };
 		CED686C52950B29C004753CD /* GuessTheNumberApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED686C42950B29C004753CD /* GuessTheNumberApp.swift */; };
 		CED686C72950B29C004753CD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED686C62950B29C004753CD /* ContentView.swift */; };
 		CED686C92950B29E004753CD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CED686C82950B29E004753CD /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CE9539D52951A4C400541C2B /* CustomSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomSlider.swift; sourceTree = "<group>"; };
 		CED686C12950B29C004753CD /* GuessTheNumber.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GuessTheNumber.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CED686C42950B29C004753CD /* GuessTheNumberApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuessTheNumberApp.swift; sourceTree = "<group>"; };
 		CED686C62950B29C004753CD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				CED686C42950B29C004753CD /* GuessTheNumberApp.swift */,
 				CED686C62950B29C004753CD /* ContentView.swift */,
+				CE9539D52951A4C400541C2B /* CustomSlider.swift */,
 				CED686C82950B29E004753CD /* Assets.xcassets */,
 				CED686CA2950B29E004753CD /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CED686C72950B29C004753CD /* ContentView.swift in Sources */,
+				CE9539D62951A4C400541C2B /* CustomSlider.swift in Sources */,
 				CED686C52950B29C004753CD /* GuessTheNumberApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
